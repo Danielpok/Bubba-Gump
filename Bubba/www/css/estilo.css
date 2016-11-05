@@ -1,0 +1,19 @@
+body{
+	background-color:#338;
+	color:#00ff00;
+}
+
+h1{
+	background-color:#ff0000;
+	border: 10px solid #FFF;
+}
+
+.claseDiv{
+	font-size: 40px;
+	background-color:#FFF;
+	color:#000;
+}
+
+#idDiv{
+	font-size: 100px;
+}
